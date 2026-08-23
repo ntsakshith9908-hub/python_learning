@@ -75,3 +75,5 @@ print("list to set: ", set(num_list2))
 #range to list
 range_nums = range(3, 7)
 print("range to list: ", list(range_nums))
+
+
